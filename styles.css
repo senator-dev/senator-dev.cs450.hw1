@@ -2,7 +2,8 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+    /* font-family: 'Arial', sans-serif; */
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
